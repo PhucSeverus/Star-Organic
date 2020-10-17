@@ -25,6 +25,6 @@ $(document).ready(function ($) {
         })
         //load data fail
         .fail(function () {
-            alert("Fail to load data!");
+            alert("Ko load dc data!");
         });
 });
