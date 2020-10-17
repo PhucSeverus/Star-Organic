@@ -2,7 +2,7 @@
 // load data ...
 //================
 $(document).ready(function ($) {
-    $.getJSON("../js/test.json")
+    $.getJSON("js/test.json")
         //load data success
         .done(function (result) {
             database = result;
