@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Pumpkin Tree Organics Fruit Snack Pouch, Mango + Fiber + A Squeeze of Orange – 3.5 Ounce Pouch (Pack of 10)" ,
+        "description":"USDA Certified Organic & Non-GMO Project Verified.<br>No strange ingredients (kids are weird enough!).<br>A brilliant antidote for any hangry toddler (suitable from 6 months old).<br>Contains 10 x 3.5 oz. pouches.<br>An excellent source of dietary fiber ",
+        "cat":"fruits",
+        "price": 15,
+        "image": "fruits/fruits1.jpg"
+    }
+]
