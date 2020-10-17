@@ -2,7 +2,7 @@
 // load data ...
 //================
 $(document).ready(function ($) {
-    $.getJSON("js/test.json")
+    $.getJSON("js/foodList.json")
         //load data success
         .done(function (result) {
             database = result;
@@ -80,7 +80,7 @@ $(document).ready(function ($) {
         })
         //load data fail
         .fail(function () {
-            alert("Fail to load data!");
+            alert("Load data failed!");
         });
 });
 // function modal for items
